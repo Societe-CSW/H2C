@@ -4420,7 +4420,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   }
   .navbar-collapse.collapse {
     display: block !important;
-    height: auto !important;
+    height: 5px !important;
     padding-bottom: 0;
     overflow: visible !important;
   }
@@ -4649,7 +4649,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
             box-shadow: none;
   }
   .navbar-form.navbar-right:last-child {
-    margin-right: -15px;
+    margin-right: 15px;
   }
 }
 
